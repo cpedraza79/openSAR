@@ -177,7 +177,7 @@ As you see, if you don't answer "y" the server keeps running ...
 
 ## QGIS
 
-During the course we will also make etensive use of the open source Quantum GIS software **QGIS Version 2.18**, preferably the **64 bit** version. If you install QGIS new, choose *Version 2.18*.
+During the course we will also make etensive use of the open source Quantum GIS software **QGIS Version 3.10**, preferably the **64 bit** version. If you install QGIS new, choose *Version 3.10*.
 
 To install QGIS please see download and installation instructions at [qgis.org](https://qgis.org/en/site/forusers/download.html)
 
@@ -196,12 +196,12 @@ A plugin for visualization of SAR Time series data is provided for the traning c
 
 Linux:
  
-    cd ~/.qgis2/python/plugins 
+    cd ~/.qgis3/python/plugins 
     unzip Timeseries_SAR_linux.zip 
  
 Windows:
 
-    # Locate the .qgis2 path and unzip the Plugin into the python/plugins subdirectory
+    # Locate the .qgis3 path and unzip the Plugin into the python/plugins subdirectory
 
 
 ## EXAMPLE DATA SETS FOR TRAINING AND PLAYING
